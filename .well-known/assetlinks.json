@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ro.emericmark.beauty",
+      "sha256_cert_fingerprints": [
+        "DA:67:4B:15:B0:FD:D0:DB:7F:58:EC:41:8B:EE:DC:D4:2E:3A:21:76:0F:58:75:90:DD:63:E2:7B:87:C1:E6:EC"
+      ]
+    }
+  }
+]
